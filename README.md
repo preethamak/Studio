@@ -70,7 +70,7 @@ The app supports various configuration options through the UI:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Bria AI](https://bria.ai) for their powerful image generation APIs
 - [Streamlit](https://streamlit.io) for the amazing web framework 
